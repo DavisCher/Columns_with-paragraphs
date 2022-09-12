@@ -1,2 +1,2 @@
-# Columns_with-paragraphs
-paragraphs in column
+# Column_with paragraphs
+paragraphs in a column
